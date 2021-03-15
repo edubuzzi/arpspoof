@@ -42,9 +42,9 @@ echo
 sleep 0.05
 echo -e "${BOLD}===============================================${COLORF}"
 sleep 0.05
-echo -e "${BOLD} developed by:${COLORF} ${BLUE}Eduardo Buzzi${COLORF}"
+echo -e "${BOLD}Script developed by:${COLORF} ${BLUE}Eduardo Buzzi${COLORF}"
 sleep 0.05
-echo -e "${BOLD}More s in:${COLORF} ${BLUE}https://github.com/edubuzzi${COLORF}"
+echo -e "${BOLD}More scripts in:${COLORF} ${BLUE}https://github.com/edubuzzi${COLORF}"
 sleep 0.05
 echo -e "${BOLD}===============================================${COLORF}"
 sleep 0.05
