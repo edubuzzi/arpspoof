@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt-get install gnome-terminal >> /dev/null
-apt-get install nmap >> /dev/null
+apt-get install gnome-terminal -y >> /dev/null
+apt-get install nmap -y >> /dev/null
 
 BLUE='\033[1;34m'
 BOLD='\033[1m'
